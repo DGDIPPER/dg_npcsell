@@ -3,6 +3,7 @@ game 'gta5'
 
 name 'dg_npcsell'
 author 'DGDIPPER'
+description 'A simple NPC selling script'
 version '1.0.0'
 
 shared_scripts {
